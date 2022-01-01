@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nlucid2/static/css/main.6087c630.css",
-    "main.js": "/nlucid2/static/js/main.2aad6bc4.js",
+    "main.js": "/nlucid2/static/js/main.e48d7eae.js",
     "static/js/787.67f87916.chunk.js": "/nlucid2/static/js/787.67f87916.chunk.js",
     "static/media/Wishes.wav": "/nlucid2/static/media/Wishes.b2991d0921fecae34eca.wav",
     "static/media/Parakeet-Paradise.wav": "/nlucid2/static/media/Parakeet-Paradise.0d2d9bc4d24cf870f4a3.wav",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/nlucid2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nlucid2/index.html",
     "main.6087c630.css.map": "/nlucid2/static/css/main.6087c630.css.map",
-    "main.2aad6bc4.js.map": "/nlucid2/static/js/main.2aad6bc4.js.map",
+    "main.e48d7eae.js.map": "/nlucid2/static/js/main.e48d7eae.js.map",
     "787.67f87916.chunk.js.map": "/nlucid2/static/js/787.67f87916.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6087c630.css",
-    "static/js/main.2aad6bc4.js"
+    "static/js/main.e48d7eae.js"
   ]
 }
